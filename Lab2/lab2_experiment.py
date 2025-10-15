@@ -26,4 +26,4 @@ def estimate_probability(size = 1000):
 
     return prob_red
 
-print("b) (0.5p) Using the simulation, estimate the probability of drawing a red ball: ", estimate_probability(10000))
+print("b) (0.5p) Using the simulation, estimate the probability of drawing a red ball: ", estimate_probability(20000))
